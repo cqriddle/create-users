@@ -17,6 +17,11 @@
   "bugs": {
     "url": "https://github.com/kogsio/littletiers/issues"
   },
+  "engines": {
+
+    "node": "14.x"
+
+  },
   "homepage": "https://github.com/kogsio/littletiers#readme",
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
